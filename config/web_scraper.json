@@ -1,0 +1,10 @@
+{
+  "urls": [
+    "https://quotes.toscrape.com",
+    "https://quotes.toscrape.com/page/2/"
+  ],
+  "selector": ".text",
+  "delay_seconds": 2,
+  "retry_count": 3,
+  "output_format": ["csv", "json"]
+}

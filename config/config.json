@@ -1,0 +1,10 @@
+{
+  "file_organizer": {
+    "watch_folder": "watch_folder",
+    "organized_folder": "organized_files"
+  },
+  "logging": {
+    "level": "INFO",
+    "log_file": "logs/app.log"
+  }
+}

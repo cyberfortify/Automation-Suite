@@ -1,0 +1,9 @@
+{
+  "interval_seconds": 10,
+  "thresholds": {
+    "cpu": 60,
+    "memory": 75,
+    "disk": 85
+  },
+  "alert_cooldown_seconds": 300
+}

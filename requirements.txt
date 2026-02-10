@@ -1,0 +1,6 @@
+watchdog
+schedule
+psutil
+requests
+beautifulsoup4
+fake-useragent

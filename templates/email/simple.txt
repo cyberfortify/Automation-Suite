@@ -1,0 +1,10 @@
+Hello {{name}},
+
+This is your automated report.
+
+Module: {{module}}
+Status: {{status}}
+Date: {{date}}
+
+Regards,
+Automation Suite

@@ -1,0 +1,18 @@
+{
+  "daily_automation": {
+    "description": "Daily automation workflow",
+    "steps": [
+      {
+        "task": "file_organizer",
+        "mode": "single"
+      },
+      {
+        "task": "web_scraper"
+      },
+      {
+        "task": "send_email",
+        "subject": "Daily Automation Report"
+      }
+    ]
+  }
+}
